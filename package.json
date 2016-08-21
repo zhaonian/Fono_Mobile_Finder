@@ -1,0 +1,24 @@
+{
+  "name": "fonoapi-nodejs",
+  "version": "0.1.1",
+  "description": "Provide mobile device specifications/descriptions such as model, brand, cpu, gpu, dimensions, release date ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "author": "Trung Vo <mtrung@gmail.com>",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mtrung/fonoapi"
+  },
+  "homepage": "https://github.com/mtrung/fonoapi/tree/master/fonoapi-nodejs",
+  "keywords": ["device", "phone", "information", "spec", "specs", "specification", "description"],
+
+  "dependencies": {
+    "httpreq": "^0.4.22"
+  },
+  "devDependencies": {
+    "xo": "^0.15.0"
+  }
+}

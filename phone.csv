@@ -1,0 +1,309 @@
+model, price, weight, device name, brand, touch screen, announced date, CPU
+Apple iPhone 5s,(About 330 EUR),112 g (3.95 oz),Apple iPhone 5s,Apple,Yes,2013  September,Dual-core 1.3 GHz Cyclone (ARM v8-based)
+Apple iPhone 6s,(About 330 EUR),143 g (5.04 oz),Apple iPhone 6s,Apple,Yes,2013  September,Dual-core 1.84 GHz Twister
+Google Nexus 6,don't know,don't know,Google Nexus 6,don't know,don't know,don't know,don't know
+Samsung Galaxy S5,don't know,145 g (5.11 oz),Samsung Galaxy S5,Samsung,Yes,2014  February,Quad-core 2.5 GHz Krait 400
+Apple iPad Air 2,don't know,437 g (Wi-Fi) / 444 g (3G/LTE) (15.41 oz),Apple iPad Air 2,Apple,Yes,2014  October,Triple-core 1.5 GHz Typhoon
+Google Nexus 7,don't know,don't know,Google Nexus 7,don't know,don't know,don't know,don't know
+Nokia Lumia 520,don't know,124 g (4.37 oz),Nokia Lumia 520,Nokia,Yes,2013  February,Dual-core 1.0 GHz
+Google Nexus 4,don't know,don't know,Google Nexus 4,don't know,don't know,don't know,don't know
+Apple iPhone 6 Plus,don't know,172 g (6.07 oz),Apple iPhone 6 Plus,Apple,Yes,2014  September,Dual-core 1.4 GHz Typhoon (ARM v8-based)
+Samsung Galaxy Note 3,don't know,168 g (5.93 oz),Samsung Galaxy Note 3,Samsung,Yes,2013  September,Quad-core 2.3 GHz Krait 400 (N9005  N9002)/ Quad-core 1.9 GHz Cortex-A15 & quad-core 1.3 GHz Cortex-A7 (N9000)
+Google Nexus 5X,don't know,don't know,Google Nexus 5X,don't know,don't know,don't know,don't know
+Samsung Galaxy S6,(About 850 EUR),138 g (4.87 oz),Samsung Galaxy S6,Samsung,Yes,2016  August,Quad-core 1.5 GHz Cortex-A53 & Quad-core 2.1.0 GHz Cortex-A57
+Amazon Kindle Fire HDX 8.9,(About 850 EUR),374 g (Wi-Fi)/ 384 g (4G) (13.19 oz),Amazon Kindle Fire HDX 8.9,Amazon,Yes  up to 10 fingers,2016  August,Quad-core 2.2 GHz Krait 400
+Apple iPad Mini 2,(About 270 EUR),don't know,Apple iPad Mini 2,don't know,don't know,2013  October,don't know
+Sony Xperia Z,(About 270 EUR),146 g (5.15 oz),Sony Xperia Z,Sony,Yes  up to 10 fingers,2013  October,Quad-core 1.5 GHz Krait
+Apple iPhone 4s,don't know,140 g (4.94 oz),Apple iPhone 4s,Apple,Yes,2011  October,Dual-core 1.0 GHz Cortex-A9
+Samsung Galaxy S4,(About 850 EUR),don't know,Samsung Galaxy S4,don't know,don't know,2016  August,don't know
+Motorola G (2nd Gen),(About 160 EUR),don't know,Motorola G (2nd Gen),don't know,don't know,2014  September,don't know
+HTC One X,(About 360 EUR),130 g (4.59 oz),HTC One X,HTC,Yes,2015  December,Quad-core 1.5 GHz
+Blackberry Z10,don't know,don't know,Blackberry Z10,don't know,don't know,don't know,don't know
+Samsung Galaxy Note 4,(About 850 EUR),176 g (6.21 oz),Samsung Galaxy Note 4,Samsung,Yes,2016  August,Quad-core 2.7 GHz Krait 450 (Snapdragon 805)
+Quad-core 1.3 GHz Cortex-A53 & Quad-core 1.9 GHz Cortex-A57 (Exynos 5433)
+Google Nexus 9 Tablet,don't know,don't know,Google Nexus 9 Tablet,don't know,don't know,don't know,don't know
+Samsung Galaxy Note 10.1,(About 850 EUR),don't know,Samsung Galaxy Note 10.1,don't know,don't know,2016  August,don't know
+Windows Surface RT 2,don't know,don't know,Windows Surface RT 2,don't know,don't know,don't know,don't know
+Cingular 2125 (5.0),don't know,don't know,Cingular 2125 (5.0),don't know,don't know,don't know,don't know
+Cingular 3125 (5.0),don't know,don't know,Cingular 3125 (5.0),don't know,don't know,don't know,don't know
+Cingular 8125 (5.0),don't know,don't know,Cingular 8125 (5.0),don't know,don't know,don't know,don't know
+Cingular 8525 (5.0),don't know,don't know,Cingular 8525 (5.0),don't know,don't know,don't know,don't know
+BlackBerry 7130c,don't know,120 g (4.23 oz),BlackBerry 7130c,BlackBerry,don't know,2006  June,Intel XScale 312 MHz
+BlackBerry 7290,don't know,139 g (4.90 oz),BlackBerry 7290,BlackBerry,don't know,2004  4Q,don't know
+BlackBerry 8520,don't know,don't know,BlackBerry 8520,don't know,don't know,don't know,don't know
+BlackBerry 8700c,don't know,134 g (4.73 oz),BlackBerry 8700c,BlackBerry,don't know,2004  4Q,Intel PXA901 312 MHz
+BlackBerry 8800,don't know,134 g (4.73 oz),BlackBerry 8800,BlackBerry,don't know,2007  February,32-bit Intel XScale PXA272 312 MHz
+BlackBerry 8820,don't know,134 g (4.73 oz),BlackBerry 8820,BlackBerry,don't know,2007  July,32-bit Intel XScale PXA272 312 MHz
+BlackBerry Bold 9000,(About 140 EUR),133 g (4.69 oz),BlackBerry Bold 9000,BlackBerry,don't know,2011  May,624 MHz
+BlackBerry Bold 9700,(About 140 EUR),122 g (4.30 oz),BlackBerry Bold 9700,BlackBerry,don't know,2011  May,624 MHz
+BlackBerry Curve,don't know,don't know,BlackBerry Curve,don't know,don't know,don't know,don't know
+BlackBerry Curve 8310,don't know,111 g (3.92 oz),BlackBerry Curve 8310,BlackBerry,don't know,2007  August,32-bit Intel XScale PXA272 312 MHz
+BlackBerry Curve 8320,(About 70 EUR),111 g (3.92 oz),BlackBerry Curve 8320,BlackBerry,don't know,2009  July. Released 2009  August,32-bit Intel XScale PXA272 312 MHz
+BlackBerry Curve 8900,(About 70 EUR),110 g (3.88 oz),BlackBerry Curve 8900,BlackBerry,don't know,2009  July. Released 2009  August,512 MHz
+BlackBerry Pearl,(About 90 EUR),don't know,BlackBerry Pearl,don't know,don't know,2010  April. Released 2010  April,don't know
+BlackBerry Pearl 8110,(About 90 EUR),91 g (3.21 oz),BlackBerry Pearl 8110,BlackBerry,don't know,2010  April. Released 2010  April,32-bit Intel XScale PXA272 312 MHz
+BlackBerry Pearl 8120,(About 90 EUR),91 g (3.21 oz),BlackBerry Pearl 8120,BlackBerry,don't know,2010  April. Released 2010  April,32-bit Intel XScale PXA272 312 MHz
+HP iPAQ Glisten,don't know,132 g (4.66 oz),HP iPAQ Glisten,HP,don't know,2009  November. Released 2009  December,528 MHz ARM 11
+HTC Fuze,don't know,don't know,HTC Fuze,don't know,don't know,don't know,don't know
+HTC Pure,don't know,117.5 g (4.13 oz),HTC Pure,HTC,don't know,2009  October,528 MHz ARM 11
+HTC Tilt 2,(About 120 EUR),don't know,HTC Tilt 2,don't know,don't know,2009  February. Released 2009  May,don't know
+LG eXpo,don't know,don't know,LG eXpo,don't know,don't know,don't know,don't know
+LG Incite,don't know,don't know,LG Incite,don't know,don't know,don't know,don't know
+Motorola Q Global,don't know,don't know,Motorola Q Global,don't know,don't know,don't know,don't know
+Nokia E71x,don't know,don't know,Nokia E71x,don't know,don't know,don't know,don't know
+Nokia Surge,don't know,don't know,Nokia Surge,don't know,don't know,don't know,don't know
+Palm Centro,don't know,124 g (4.37 oz),Palm Centro,Palm,don't know,2008  February. Released 2008  March,32-bit Intel XScale PXA270 312 MHz
+Palm Treo 650,don't know,178 g (6.28 oz),Palm Treo 650,Palm,don't know,2004  4Q,Intel PXA270 312 MHz
+Palm Treo 680,don't know,157 g (5.54 oz),Palm Treo 680,Palm,don't know,2006  October,Intel PXA270 312 MHz
+Palm Treo 750,(About 80 EUR),154 g (5.43 oz),Palm Treo 750,Palm,don't know,2008  October. Released 2008  October,300 MHz Samsung
+Pantech Duo,don't know,110 g (3.88 oz),Pantech Duo,Pantech,don't know,2007  October. Released 2007  October,Marvell PXA270 416 MHz
+Pantech Matrix Pro,(About 150 EUR),122 g (4.30 oz),Pantech Matrix Pro,Pantech,don't know,2009  February. Released 2009  February,528 MHz
+Samsung BlackJack II,(About 150 EUR),don't know,Samsung BlackJack II,don't know,don't know,don't know,don't know
+Samsung Epix,don't know,don't know,Samsung Epix,don't know,don't know,don't know,don't know
+Tilt,(About 120 EUR),don't know,Tilt,don't know,don't know,2009  February. Released 2009  May,don't know
+Aava Mobile,don't know,don't know,Aava Mobile,don't know,don't know,don't know,don't know
+Acer beTouch E110,(About 90 EUR),105 g (3.70 oz),Acer beTouch E110,Acer,don't know,2010  June. Released 2010  August,ST Ericsson PNX6715 416MHz
+Acer beTouch E130,(About 90 EUR),109 g (3.84 oz),Acer beTouch E130,Acer,don't know,2010  June. Released 2010  August,416 MHz
+Acer beTouch E400,don't know,125 g (4.41 oz),Acer beTouch E400,Acer,don't know,2010  February,600 MHz ARM 11
+Acer Liquid A1,don't know,don't know,Acer Liquid A1,don't know,don't know,don't know,don't know
+Acer Liquid E,(About 200 EUR),135 g (4.76 oz),Acer Liquid E,Acer,don't know,2014  June,768 MHz Scorpion
+Acer Liquid E Ferrari,don't know,don't know,Acer Liquid E Ferrari,don't know,don't know,don't know,don't know
+Acer Liquid Stream,don't know,don't know,Acer Liquid Stream,don't know,don't know,don't know,don't know
+Alcatel OT-980,don't know,152 g (5.36 oz),Alcatel OT-980,Alcatel,don't know,2010  February,don't know
+Altek Leo,don't know,don't know,Altek Leo,don't know,don't know,don't know,don't know
+Apanda A60,don't know,don't know,Apanda A60,don't know,don't know,don't know,don't know
+BoostMobile i1,don't know,don't know,BoostMobile i1,don't know,don't know,don't know,don't know
+Chinavision The Robot Superphone CVNC-M80,don't know,don't know,Chinavision The Robot Superphone CVNC-M80,don't know,don't know,don't know,don't know
+Commtiva Z71,don't know,don't know,Commtiva Z71,don't know,don't know,don't know,don't know
+Compulab Exceda,don't know,don't know,Compulab Exceda,don't know,don't know,don't know,don't know
+Dell Aero,don't know,104 g (3.67 oz),Dell Aero,Dell,Yes,2010  March,Marvell PXA310 624 MHz
+Dell Benzine,don't know,don't know,Dell Benzine,don't know,don't know,don't know,don't know
+Dell Blaze,don't know,don't know,Dell Blaze,don't know,don't know,don't know,don't know
+Dell Flash,don't know,110 g (3.88 oz),Dell Flash,Dell,don't know,Not officially announced yet,800 MHz Scorpion
+Dell OPhone Mini 3i,don't know,don't know,Dell OPhone Mini 3i,don't know,don't know,don't know,don't know
+Dell Smoke,don't know,-,Dell Smoke,Dell,don't know,Not officially announced yet,800 MHz Scorpion
+Dell Thunder,don't know,don't know,Dell Thunder,don't know,don't know,don't know,don't know
+Dopod A6288,don't know,don't know,Dopod A6288,don't know,don't know,don't know,don't know
+Era G1,don't know,don't know,Era G1,don't know,don't know,don't know,don't know
+Facebook ?,don't know,don't know,Facebook ?,don't know,don't know,don't know,don't know
+Fly-ying Cool F910,don't know,don't know,Fly-ying Cool F910,don't know,don't know,don't know,don't know
+Foxda FC8901,don't know,don't know,Foxda FC8901,don't know,don't know,don't know,don't know
+Fujitsu ?,don't know,don't know,Fujitsu ?,don't know,don't know,don't know,don't know
+Garmin A10,don't know,don't know,Garmin A10,don't know,don't know,don't know,don't know
+Garmin Garminfone,don't know,don't know,Garmin Garminfone,don't know,don't know,don't know,don't know
+General Mobile Brava,don't know,don't know,General Mobile Brava,don't know,don't know,don't know,don't know
+General Mobile Cosmos,don't know,don't know,General Mobile Cosmos,don't know,don't know,don't know,don't know
+General Mobile Cosmos 2,don't know,don't know,General Mobile Cosmos 2,don't know,don't know,don't know,don't know
+General Mobile DSTL1 Imaginary,don't know,don't know,General Mobile DSTL1 Imaginary,don't know,don't know,don't know,don't know
+General Mobile Touch Stone,don't know,don't know,General Mobile Touch Stone,don't know,don't know,don't know,don't know
+Gigabyte G1305,don't know,don't know,Gigabyte G1305,don't know,don't know,don't know,don't know
+Gigabyte GSmart,(About 60 EUR),-,Gigabyte GSmart,Gigabyte,don't know,2015  October,528 MHz ARM 11
+Gigabyte GSmart Codfish,(About 60 EUR),don't know,Gigabyte GSmart Codfish,don't know,don't know,2015  October,don't know
+Gigabyte S1305,don't know,don't know,Gigabyte S1305,don't know,don't know,don't know,don't know
+Google Ion,don't know,don't know,Google Ion,don't know,don't know,don't know,don't know
+Google Nexus One,don't know,don't know,Google Nexus One,don't know,don't know,don't know,don't know
+HTC Desire Z,don't know,180 g (6.35 oz),HTC Desire Z,HTC,Yes,2010  September,800 MHz Scorpion
+Europe,don't know,don't know,Europe,don't know,don't know,don't know,don't know
+North America,don't know,don't know,North America,don't know,don't know,don't know,don't know
+HTC Dream,don't know,158 g (5.57 oz),HTC Dream,HTC,don't know,2009  February. Released 2009  June,528 MHz ARM 11
+HTC Droid Eris,don't know,don't know,HTC Droid Eris,don't know,don't know,don't know,don't know
+HTC Droid Incredible,(About 270 EUR),130 g (4.59 oz),HTC Droid Incredible,HTC,Yes,2012  May,1.0 GHz Scorpion
+HTC Droid Incredible HD,(About 270 EUR),don't know,HTC Droid Incredible HD,don't know,don't know,2012  May,don't know
+HTC Emerald,don't know,don't know,HTC Emerald,don't know,don't know,don't know,don't know
+HTC EVO 4G (Formerly HTC Supersonic),don't know,don't know,HTC EVO 4G (Formerly HTC Supersonic),don't know,don't know,don't know,don't know
+HTC Fiesta,don't know,don't know,HTC Fiesta,don't know,don't know,don't know,don't know
+HTC Glacier,don't know,-,HTC Glacier,HTC,Yes,Not officially announced yet,1.0 GHz Scorpion
+HTC Halo,don't know,don't know,HTC Halo,don't know,don't know,don't know,don't know
+HTC Hero,(About 100 EUR),135 g (4.76 oz),HTC Hero,HTC,Yes,2009  June. Released 2009  July,528 MHz ARM 11
+HTC Hero 2,don't know,don't know,HTC Hero 2,don't know,don't know,don't know,don't know
+HTC HSPA Android,don't know,don't know,HTC HSPA Android,don't know,don't know,don't know,don't know
+HTC Lancaster,don't know,don't know,HTC Lancaster,don't know,don't know,don't know,don't know
+HTC Huangshan,don't know,don't know,HTC Huangshan,don't know,don't know,don't know,don't know
+HTC Legend,don't know,126 g (4.44 oz),HTC Legend,HTC,Yes,2010  February,600 MHz ARM 11
+HTC Liberty,don't know,don't know,HTC Liberty,don't know,don't know,don't know,don't know
+HTC Lexicon,don't know,don't know,HTC Lexicon,don't know,don't know,don't know,don't know
+HTC Magic,don't know,118.5 g (4.16 oz),HTC Magic,HTC,don't know,2009  February,528 MHz ARM 11
+HTC Memphis,don't know,don't know,HTC Memphis,don't know,don't know,don't know,don't know
+HTC Merge,don't know,198 g (6.98 oz),HTC Merge,HTC,Yes,2011  February,800 MHz
+HTC Paradise,don't know,-,HTC Paradise,HTC,don't know,Not officially announced yet,don't know
+HTC Predator,don't know,don't know,HTC Predator,don't know,don't know,don't know,don't know
+HTC Salsa,don't know,120 g (4.23 oz),HTC Salsa,HTC,Yes,2011  February,800 MHz ARM 11
+HTC Sapphire,don't know,don't know,HTC Sapphire,don't know,don't know,don't know,don't know
+HTC Schubert,don't know,-,HTC Schubert,HTC,don't know,Not officially announced yet,1.0 GHz Scorpion
+HTC Scorpion,don't know,don't know,HTC Scorpion,don't know,don't know,don't know,don't know
+HTC Speedy,don't know,don't know,HTC Speedy,don't know,don't know,don't know,don't know
+HTC Tattoo (Formerly HTC Click),don't know,don't know,HTC Tattoo (Formerly HTC Click),don't know,don't know,don't know,don't know
+HTC Tianyi,don't know,don't know,HTC Tianyi,don't know,don't know,don't know,don't know
+HTC Vanguard,don't know,don't know,HTC Vanguard,don't know,don't know,don't know,don't know
+HTC Vision,don't know,don't know,HTC Vision,don't know,don't know,don't know,don't know
+HTC Wildfire,(About 100 EUR),118 g (4.16 oz),HTC Wildfire,HTC,Yes,2011  February,528 MHz ARM 11
+Huawei CHT8000,don't know,don't know,Huawei CHT8000,don't know,don't know,don't know,don't know
+Huawei Movistar IVY,don't know,don't know,Huawei Movistar IVY,don't know,don't know,don't know,don't know
+Huawei RBM2 Der Allrounder,don't know,don't know,Huawei RBM2 Der Allrounder,don't know,don't know,don't know,don't know
+Huawei U8100,don't know,104 g (3.67 oz),Huawei U8100,Huawei,don't know,2010  February,don't know
+Huawei U8110,don't know,110 g (3.88 oz),Huawei U8110,Huawei,don't know,2010  February,don't know
+Huawei U8220,don't know,135 g (4.76 oz),Huawei U8220,Huawei,Yes,2009  August. Released 2009  October,don't know
+Huawei U8226,don't know,don't know,Huawei U8226,don't know,don't know,don't know,don't know
+Huawei U8230,don't know,-,Huawei U8230,Huawei,don't know,2009  June. Released 2009,528 MHz ARM 11
+Huawei U8300,don't know,104 g (3.67 oz),Huawei U8300,Huawei,don't know,2010  February,don't know
+Huawei U8800,(About 100 EUR),don't know,Huawei U8800,don't know,don't know,2010  December,don't know
+i-mobile 8500,don't know,-,i-mobile 8500,i-mobile,don't know,2010,don't know
+Innocomm Skate,don't know,don't know,Innocomm Skate,don't know,don't know,don't know,don't know
+Innocomm Shark,don't know,don't know,Innocomm Shark,don't know,don't know,don't know,don't know
+INQ 1,don't know,don't know,INQ 1,don't know,don't know,don't know,don't know
+INQ Chat 3G,don't know,don't know,INQ Chat 3G,don't know,don't know,don't know,don't know
+INQ Mini 3G,don't know,don't know,INQ Mini 3G,don't know,don't know,don't know,don't know
+Koolu Freerunner,don't know,don't know,Koolu Freerunner,don't know,don't know,don't know,don't know
+Kyocera ZIO M6000,don't know,don't know,Kyocera ZIO M6000,don't know,don't know,don't know,don't know
+Lenovo LePhone,don't know,don't know,Lenovo LePhone,don't know,don't know,don't know,don't know
+Lenovo OPhone,don't know,don't know,Lenovo OPhone,don't know,don't know,don't know,don't know
+LG Ally,don't know,don't know,LG Ally,don't know,don't know,don't know,don't know
+LG Andro-1,don't know,don't know,LG Andro-1,don't know,don't know,don't know,don't know
+LG enV Touch 2,don't know,don't know,LG enV Touch 2,don't know,don't know,don't know,don't know
+LG GT540 Optimus,don't know,115.5 g (4.06 oz),LG GT540 Optimus,LG,don't know,2010  January,600 MHz
+LG GT540 Swift,don't know,don't know,LG GT540 Swift,don't know,don't know,don't know,don't know
+LG GW620 Eve,don't know,don't know,LG GW620 Eve,don't know,don't know,don't know,don't know
+LG GW620 Linkme,don't know,don't know,LG GW620 Linkme,don't know,don't know,don't know,don't know
+LG GW880 Amundsen,don't know,don't know,LG GW880 Amundsen,don't know,don't know,don't know,don't know
+LG GW880 Etna,don't know,don't know,LG GW880 Etna,don't know,don't know,don't know,don't know
+LG InTouch Max,don't know,don't know,LG InTouch Max,don't know,don't know,don't know,don't know
+LG KH5200,don't know,don't know,LG KH5200,don't know,don't know,don't know,don't know
+LG KU9500 Optimus Z,don't know,don't know,LG KU9500 Optimus Z,don't know,don't know,don't know,don't know
+LG Loop,don't know,don't know,LG Loop,don't know,don't know,don't know,don't know
+LG LU2300 Eclipse,don't know,don't know,LG LU2300 Eclipse,don't know,don't know,don't know,don't know
+LG Optimus Chic,don't know,don't know,LG Optimus Chic,don't know,don't know,don't know,don't know
+LG Optimus One with Google,don't know,don't know,LG Optimus One with Google,don't know,don't know,don't know,don't know
+LG Optimus Q,don't know,don't know,LG Optimus Q,don't know,don't know,2010  October. Released 2010  October,don't know
+LG Optimus Z,don't know,135 g (4.76 oz),LG Optimus Z,LG,don't know,2010  October. Released 2010  October,1.0 GHz Scorpion
+LG Prada 3,don't know,don't know,LG Prada 3,don't know,don't know,don't know,don't know
+LG SU950,don't know,don't know,LG SU950,don't know,don't know,don't know,don't know
+LG Vortex,don't know,don't know,LG Vortex,don't know,don't know,don't know,don't know
+Lumigon E1,don't know,don't know,Lumigon E1,don't know,don't know,don't know,don't know
+Lumigon S1,don't know,don't know,Lumigon S1,don't know,don't know,don't know,don't know
+Lumigon T1,don't know,don't know,Lumigon T1,don't know,don't know,don't know,don't know
+Meizu M9,don't know,don't know,Meizu M9,don't know,don't know,don't know,don't know
+Motorola Backflip MB501 (Formerly Motorola Motus),don't know,don't know,Motorola Backflip MB501 (Formerly Motorola Motus),don't know,don't know,don't know,don't know
+Motorola Charm MB502 (Formerly Motorola Basil),don't know,don't know,Motorola Charm MB502 (Formerly Motorola Basil),don't know,don't know,don't know,don't know
+Motorola Citus WX445,don't know,don't know,Motorola Citus WX445,don't know,don't know,don't know,don't know
+Motorola CLIQ MB200 (Formerly Motorola Morrison),don't know,don't know,Motorola CLIQ MB200 (Formerly Motorola Morrison),don't know,don't know,don't know,don't know
+Motorola CLIQ XT MB300 (Formerly Motorola Zeppelin),don't know,don't know,Motorola CLIQ XT MB300 (Formerly Motorola Zeppelin),don't know,don't know,don't know,don't know
+Motorola Devour A555 (Formerly Motorola Calgary),don't know,don't know,Motorola Devour A555 (Formerly Motorola Calgary),don't know,don't know,don't know,don't know
+Motorola Defy,(About 110 EUR),don't know,Motorola Defy,don't know,don't know,2010  September. Released 2010  October,don't know
+Motorola DEXT,don't know,don't know,Motorola DEXT,don't know,don't know,don't know,don't know
+Motorola Droid A855 (Formerly Motorola Sholes),don't know,don't know,Motorola Droid A855 (Formerly Motorola Sholes),don't know,don't know,2016  June,don't know
+Motorola Droid 2 MB810 (Formerly Motorola Shadow),don't know,don't know,Motorola Droid 2 MB810 (Formerly Motorola Shadow),don't know,don't know,2016  June,don't know
+Motorola Droid 2 R2-D2 Edition,don't know,don't know,Motorola Droid 2 R2-D2 Edition,don't know,don't know,2016  June,don't know
+Motorola Droid 2 World Edition A956,don't know,don't know,Motorola Droid 2 World Edition A956,don't know,don't know,2016  June,don't know
+Motorola Droid Pro A957,don't know,don't know,Motorola Droid Pro A957,don't know,don't know,2016  June,don't know
+Motorola Droid X,don't know,don't know,Motorola Droid X,don't know,don't know,2016  June,don't know
+Motorola Flipout MB511 (Formerly Motorola Ruth),don't know,don't know,Motorola Flipout MB511 (Formerly Motorola Ruth),don't know,don't know,don't know,don't know
+Motorola Heron,don't know,don't know,Motorola Heron,don't know,don't know,don't know,don't know
+Motorola i1 (Formerly Motorola Opus),don't know,don't know,Motorola i1 (Formerly Motorola Opus),don't know,don't know,don't know,don't know
+Motorola Jordan,don't know,don't know,Motorola Jordan,don't know,don't know,don't know,don't know
+Motorola LaJolla,don't know,don't know,Motorola LaJolla,don't know,don't know,don't know,don't know
+Motorola Milestone XT720,(About 130 EUR),don't know,Motorola Milestone XT720,don't know,don't know,2009  November. Released 2009  November,don't know
+Motorola Milestone 2,(About 130 EUR),don't know,Motorola Milestone 2,don't know,don't know,2009  November. Released 2009  November,don't know
+Motorola Ming A1680,don't know,don't know,Motorola Ming A1680,don't know,don't know,don't know,don't know
+Motorola Ming MT810,don't know,don't know,Motorola Ming MT810,don't know,don't know,don't know,don't know
+Motorola Ming XT806,don't know,don't know,Motorola Ming XT806,don't know,don't know,don't know,don't know
+Motorola Mirage,don't know,don't know,Motorola Mirage,don't know,don't know,don't know,don't know
+Motorola MOTO Milestone XT701,don't know,don't know,Motorola MOTO Milestone XT701,don't know,don't know,don't know,don't know
+Motorola MOTO MT710,(About 700 EUR),don't know,Motorola MOTO MT710,don't know,don't know,2014  November,don't know
+Motorola MOTO XT800,(About 170 EUR),don't know,Motorola MOTO XT800,don't know,don't know,2015  July,don't know
+Motorola Motoglam,(About 170 EUR),don't know,Motorola Motoglam,don't know,don't know,2015  July,don't know
+Motorola Motoqrty,don't know,don't know,Motorola Motoqrty,don't know,don't know,don't know,don't know
+Motorola Motoroi,(About 170 EUR),don't know,Motorola Motoroi,don't know,don't know,2015  July,don't know
+Motorola Quench,(About 170 EUR),don't know,Motorola Quench,don't know,don't know,2015  July,don't know
+Motorola Sage (Formerly known as the Asena and Gallardo),don't know,don't know,Motorola Sage (Formerly known as the Asena and Gallardo),don't know,don't know,don't know,don't know
+Motorola XT610,don't know,don't know,Motorola XT610,don't know,don't know,don't know,don't know
+NTT DoCoMo,don't know,don't know,NTT DoCoMo,don't know,don't know,don't know,don't know
+Openmoko GTA02,don't know,don't know,Openmoko GTA02,don't know,don't know,don't know,don't know
+Oppo,don't know,don't know,Oppo,don't know,don't know,2016  August,don't know
+Orange Boston,don't know,don't know,Orange Boston,don't know,don't know,don't know,don't know
+Orange Project JAL,don't know,don't know,Orange Project JAL,don't know,don't know,don't know,don't know
+Orange San Franciso,(About 170 EUR),don't know,Orange San Franciso,don't know,don't know,2010  October. Released 2010  November,don't know
+Orange Tactile Internet,don't know,don't know,Orange Tactile Internet,don't know,don't know,don't know,don't know
+Pantech IWA600S Sirius,don't know,don't know,Pantech IWA600S Sirius,don't know,don't know,don't know,don't know
+Pantech Sirius Sky,don't know,don't know,Pantech Sirius Sky,don't know,don't know,don't know,don't know
+Philips V808,don't know,120 g (4.23 oz),Philips V808,Philips,don't know,2009  October. Released 2009  Q4,don't know
+Philips V900,don't know,153.5 g (5.40 oz),Philips V900,Philips,don't know,2010  February,don't know
+Qigi i6,don't know,don't know,Qigi i6,don't know,don't know,don't know,don't know
+Russian Technologies ?,don't know,don't know,Russian Technologies ?,don't know,don't know,don't know,don't know
+Samsung Acclaim,don't know,130 g (4.59 oz),Samsung Acclaim,Samsung,don't know,2010  June,don't know
+Samsung Apollo,don't know,don't know,Samsung Apollo,don't know,don't know,don't know,don't know
+Samsung Beam i8520,don't know,don't know,Samsung Beam i8520,don't know,don't know,don't know,don't know
+Samsung Behold,(About 90 EUR),don't know,Samsung Behold,don't know,don't know,2009  October. Released 2009  November,don't know
+Samsung Behold II,(About 90 EUR),don't know,Samsung Behold II,don't know,don't know,2009  October. Released 2009  November,don't know
+Samsung Bigfoot,don't know,don't know,Samsung Bigfoot,don't know,don't know,don't know,don't know
+Samsung Captivate,(About 90 EUR),don't know,Samsung Captivate,don't know,don't know,2009  October. Released 2009  November,don't know
+Samsung Continum I400,don't know,don't know,Samsung Continum I400,don't know,don't know,don't know,don't know
+Samsung Corby,don't know,don't know,Samsung Corby,don't know,don't know,don't know,don't know
+Samsung Epic 4G,(About 130 EUR),155 g (5.47 oz),Samsung Epic 4G,Samsung,Yes,2011  August,1.0 GHz Cortex-A8
+Samsung Fascinate SGH-I500,don't know,don't know,Samsung Fascinate SGH-I500,don't know,don't know,don't know,don't know
+Samsung Galaxy,(About 850 EUR),don't know,Samsung Galaxy,don't know,don't know,2016  August,don't know
+Samsung Galaxy 3 i5801,(About 850 EUR),don't know,Samsung Galaxy 3 i5801,don't know,don't know,2016  August,don't know
+Samsung Galaxy 5 i5503,(About 850 EUR),don't know,Samsung Galaxy 5 i5503,don't know,don't know,2016  August,don't know
+Samsung Galaxy A,(About 210 EUR),128 g (4.52 oz),Samsung Galaxy A,Samsung,Yes,2011  August. Released 2011  September,720 MHz Cortex-A8
+Samsung Galaxy i5510,(About 850 EUR),don't know,Samsung Galaxy i5510,don't know,don't know,2016  August,don't know
+Samsung Galaxy Apollo i5800,(About 850 EUR),don't know,Samsung Galaxy Apollo i5800,don't know,don't know,2016  August,don't know
+Samsung Galaxy Beam i8520 (Formerly Samsung Halo),(About 850 EUR),don't know,Samsung Galaxy Beam i8520 (Formerly Samsung Halo),don't know,don't know,2016  August,don't know
+Samsung Galaxy Lite,(About 850 EUR),don't know,Samsung Galaxy Lite,don't know,don't know,2016  August,don't know
+Samsung Galaxy Naos,(About 850 EUR),don't know,Samsung Galaxy Naos,don't know,don't know,2016  August,don't know
+Samsung Galaxy Portal,(About 850 EUR),don't know,Samsung Galaxy Portal,don't know,don't know,2016  August,don't know
+Samsung Galaxy Q,(About 850 EUR),don't know,Samsung Galaxy Q,don't know,don't know,2016  August,don't know
+Samsung Galaxy Mini,(About 850 EUR),don't know,Samsung Galaxy Mini,don't know,don't know,2016  August,don't know
+Samsung Galaxy S Pro,(About 850 EUR),don't know,Samsung Galaxy S Pro,don't know,don't know,2016  August,don't know
+Samsung Galaxy Teos,(About 850 EUR),don't know,Samsung Galaxy Teos,don't know,don't know,2016  August,don't know
+Samsung Galaxy U,(About 120 EUR),don't know,Samsung Galaxy U,don't know,don't know,2011  January,don't know
+Samsung Houdini,don't know,don't know,Samsung Houdini,don't know,don't know,don't know,don't know
+Samsung Gem,don't know,don't know,Samsung Gem,don't know,don't know,don't know,don't know
+Samsung i899,don't know,don't know,Samsung i899,don't know,don't know,don't know,don't know
+Samsung i5500,don't know,don't know,Samsung i5500,don't know,don't know,don't know,don't know
+Samsung Galaxy S2 I9200,(About 850 EUR),don't know,Samsung Galaxy S2 I9200,don't know,don't know,2016  August,don't know
+Samsung i5700,don't know,don't know,Samsung i5700,don't know,don't know,don't know,don't know
+Samsung i6500,don't know,don't know,Samsung i6500,don't know,don't know,don't know,don't know
+Samsung InstincQ m900,don't know,don't know,Samsung InstincQ m900,don't know,don't know,don't know,don't know
+Samsung i7500,don't know,don't know,Samsung i7500,don't know,don't know,don't know,don't know
+Samsung Intercept,don't know,139 g (4.90 oz),Samsung Intercept,Samsung,don't know,2010  July,don't know
+Samsung Moment,don't know,don't know,Samsung Moment,don't know,don't know,don't know,don't know
+Samsung M100S,don't know,don't know,Samsung M100S,don't know,don't know,don't know,don't know
+Samsung Saturn,don't know,don't know,Samsung Saturn,don't know,don't know,don't know,don't know
+Samsung Vibrant,(About 120 EUR),117 9 (4.13 oz),Samsung Vibrant,Samsung,Yes,2011  January,1.0 GHz Cortex-A8
+Samsung Spica,don't know,don't know,Samsung Spica,don't know,don't know,don't know,don't know
+Sanyo ZIO by Kyocera,don't know,don't know,Sanyo ZIO by Kyocera,don't know,don't know,don't know,don't know
+Saygus VPhone V1,don't know,don't know,Saygus VPhone V1,don't know,don't know,don't know,don't know
+SciPhone N12,don't know,don't know,SciPhone N12,don't know,don't know,don't know,don't know
+SciPhone N16,don't know,don't know,SciPhone N16,don't know,don't know,don't know,don't know
+SciPhone N17,don't know,don't know,SciPhone N17,don't know,don't know,don't know,don't know
+SciPhone N19,don't know,don't know,SciPhone N19,don't know,don't know,don't know,don't know
+SciPhone N21,don't know,don't know,SciPhone N21,don't know,don't know,don't know,don't know
+Sharp LYNX SH-10B,don't know,don't know,Sharp LYNX SH-10B,don't know,don't know,don't know,don't know
+Sharp IS01,don't know,don't know,Sharp IS01,don't know,don't know,don't know,don't know
+Sharp Tapas,don't know,don't know,Sharp Tapas,don't know,don't know,don't know,don't know
+Sony Ericsson Infinity,(About 210 EUR),don't know,Sony Ericsson Infinity,don't know,don't know,2011  August. Released 2011  September,don't know
+Sony Ericsson PSP ?,(About 210 EUR),don't know,Sony Ericsson PSP ?,don't know,don't know,2011  August. Released 2011  September,don't know
+Sony Ericsson Robyn,(About 210 EUR),don't know,Sony Ericsson Robyn,don't know,don't know,2011  August. Released 2011  September,don't know
+Sony Ericsson Sunny,(About 210 EUR),don't know,Sony Ericsson Sunny,don't know,don't know,2011  August. Released 2011  September,don't know
+Sony Ericsson Susan,(About 210 EUR),don't know,Sony Ericsson Susan,don't know,don't know,2011  August. Released 2011  September,don't know
+Sony Ericsson Xperia X10,(About 210 EUR),135 g (4.76 oz),Sony Ericsson Xperia X10,Sony,don't know,2011  August. Released 2011  September,1.0 GHz Scorpion
+Sony Ericsson Xperia X8,(About 210 EUR),104 g (3.67 oz),Sony Ericsson Xperia X8,Sony,don't know,2011  August. Released 2011  September,600 MHz ARM 11
+T-Mobile G1 Blaze,don't know,don't know,T-Mobile G1 Blaze,don't know,don't know,don't know,don't know
+T-Mobile G2,don't know,184.3 g (6.49 oz),T-Mobile G2,T-Mobile,Yes,2010  September,800 MHz Scorpion
+T-Mobile G2 Touch,don't know,135 g (4.76 oz),T-Mobile G2 Touch,T-Mobile,Yes,2009  July. Released 2009  July,528 MHz ARM 11
+T-Mobile myTouch 2,(About 280 EUR),140 g (4.94 oz),T-Mobile myTouch 2,T-Mobile,Yes,2010  October. Released 2010  November,1.4 GHz Scorpion
+T-Mobile myTouch 3G,(About 280 EUR),116 g (4.09 oz),T-Mobile myTouch 3G,T-Mobile,don't know,2010  October. Released 2010  November,528 MHz ARM 11
+T-Mobile myTouch 3G Slide,(About 280 EUR),167 (5.89 oz),T-Mobile myTouch 3G Slide,T-Mobile,don't know,2010  October. Released 2010  November,600 MHz ARM 11
+T-Mobile myTouch HD,don't know,don't know,T-Mobile myTouch HD,don't know,don't know,2010  February. Released 2010  May,don't know
+T-Mobile Pulse,don't know,130 g (4.59 oz),T-Mobile Pulse,T-Mobile,Yes,2010  February. Released 2010  May,don't know
+T-Mobile Sidekick,(About 310 EUR),128 g (4.52 oz),T-Mobile Sidekick,T-Mobile,don't know,2011  March,don't know
+Tianyu Tapas,don't know,don't know,Tianyu Tapas,don't know,don't know,don't know,don't know
+Tiger G3,don't know,don't know,Tiger G3,don't know,don't know,don't know,don't know
+TWM T1,don't know,don't know,TWM T1,don't know,don't know,don't know,don't know
+Ulysse Nardin Chairman,don't know,don't know,Ulysse Nardin Chairman,don't know,don't know,don't know,don't know
+Vodaphone 845,don't know,don't know,Vodaphone 845,don't know,don't know,don't know,don't know
+Vibo A688,don't know,don't know,Vibo A688,don't know,don't know,don't know,don't know
+Yuhua Tel X2,don't know,don't know,Yuhua Tel X2,don't know,don't know,don't know,don't know
+ZTE Racer,(About 180 EUR),100 g (3.53 oz),ZTE Racer,ZTE,don't know,2010  July. Released 2010  July,600 MHz ARM 11
+ZTE Black,don't know,don't know,ZTE Black,don't know,don't know,don't know,don't know
+ZTE Smooth,don't know,don't know,ZTE Smooth,don't know,don't know,don't know,don't know
+Samsung Galaxy S,(About 850 EUR),don't know,Samsung Galaxy S,don't know,don't know,2016  August,don't know
